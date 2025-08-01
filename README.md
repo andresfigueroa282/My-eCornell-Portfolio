@@ -76,7 +76,7 @@ In this project, I implemented the full machine learning lifecycle to predict th
 | Metric | Interpretation |
 |--------|----------------|
 | R²     | % of variance explained by the model |
-| RMSE   | Average prediction error magnitude |
+| RMSE   | Average prediction error range |
 | MAE    | Average absolute difference between actual and predicted |
 
 ---
